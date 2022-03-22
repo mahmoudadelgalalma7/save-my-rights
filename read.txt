@@ -1,0 +1,1 @@
+@import url('https://mahmoudadelgalalma7.github.io/save-my-rights/style.css');
